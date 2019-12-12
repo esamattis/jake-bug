@@ -1,0 +1,14 @@
+{
+  "name": "jake-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jake test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jake": "^10.4.1"
+  }
+}
